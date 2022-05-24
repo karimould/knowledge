@@ -6,3 +6,9 @@ Besides that, by being on the internet every day, I find many interesting/cool/u
 This "wiki" or "digital garden" should help me to write down this knowledge in a structured way and make it reusable.
 
 All this is forked and inspired by [Nikita](https://wiki.nikiv.dev/)
+
+My name is Karim, if you want to know more you can visit my [website](https://www.karimould.dev).
+
+TLDR: Karim Ould Mahieddine, Software Engineer from Germany.
+
+You can visit the Wiki [here](https://karimould.github.io/knowledge/).
