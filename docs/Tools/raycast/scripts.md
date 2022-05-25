@@ -31,14 +31,18 @@ I need this script because I work on multiple mashines.
 cd ~/Projects/knowledge/
 git pull
 
-if \[\[ \`git status --porcelain\` \]\]; then
-
+if \[\[ \`git status --porcelain\` \]\]
+then
     now=$(date)
-    git add .
-    git commit -m "`$now`"
-    gitPush=$(git push -vvv git@github.com:karimould/knowledge.git master 2>&1)
-    
-echo   'Sync Complete 🐙'
-
+    git add . 
+    git commit -m "$now" 
+    if git push
+    then
+        echo   "✅ git push succeeded ✅"
+    else
+        echo   "❌ git push failed ❌"
+     fi
+else
+    echo   "💬 no changes 💬"
 fi
 ```
