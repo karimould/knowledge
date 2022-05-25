@@ -33,4 +33,22 @@ else
 fi
 ```
 
+Two different ways to write if statements:
+
+1. with semicolon before then:
+```bash
+    if [ "Test" != 'Test' ]; then
+        echo '💬'    
+    else
+        echo '💬'          
+```
+
+2. with no semicolon and new line before then
+```bash
+    if [ "Test" != 'Test' ] 
+    then
+        echo '💬'    
+    else
+        echo '💬'    
+```
 
