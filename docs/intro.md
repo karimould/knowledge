@@ -2,7 +2,7 @@
 sidebar_position: 1
 id: my-home-doc
 slug: /
-title: My Knowledge Wiki
+title: Knowledge Wiki From Karim Ould Mahieddine
 ---
 
 # Karim's Knowledge Wiki 🌿
@@ -17,3 +17,9 @@ All this is forked and inspired by [Nikita](https://wiki.nikiv.dev/)
 My name is Karim, if you want to know more you can visit my [website](https://www.karimould.dev).
 
 TLDR: Karim Ould Mahieddine, Software Engineer from Germany.
+
+## Workflow
+
+To keep this wiki in sync on my different machines, I wrote [this raycast script](https://karimould.github.io/knowledge/Tools/raycast/scripts).
+
+Before I start writing anything I open raycast and run this script, this way I can keep the repo in sync on all my machines without much effort.
