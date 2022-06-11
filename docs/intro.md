@@ -18,8 +18,14 @@ My name is Karim, if you want to know more you can visit my [website](https://ww
 
 TLDR: Karim Ould Mahieddine, Software Engineer from Germany.
 
+Some Links:
+
+- [Blog](https://blog.karimould.dev)
+- [Github](https://github.com/karimould)
+- [Website](https://karimould.dev)
+
 ## Workflow
 
-To keep this wiki in sync on my different machines, I wrote [this raycast script](https://karimould.github.io/knowledge/Tools/raycast/scripts).
+To keep this wiki in sync on my different machines, I wrote [this raycast script](https://wiki.karimould.dev/Tools/raycast/scripts).
 
 Before I start writing anything I open raycast and run this script, this way I can keep the repo in sync on all my machines without much effort.

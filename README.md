@@ -11,4 +11,6 @@ My name is Karim, if you want to know more you can visit my [website](https://ww
 
 TLDR: Karim Ould Mahieddine, Software Engineer from Germany.
 
-You can visit the Wiki [here](https://karimould.github.io/knowledge/).
+If you want to read my Blog you can visit it [here](https://blog.karimould.dev)
+
+You can visit the Wiki [here](https://wiki.karimould.dev).

@@ -9,7 +9,7 @@ const config = {
   title: "Knowledge",
   tagline: "Knowledge",
   url: "https://wiki.karimould.dev",
-  baseUrl: "/knowledge/",
+  baseUrl: "/",
   trailingSlash: false,
   onBrokenLinks: "warn",
   onBrokenMarkdownLinks: "warn",
