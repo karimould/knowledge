@@ -22,6 +22,7 @@ jobs:
         run: yarn install --frozen-lockfile
       - name: Build website
         run: yarn build
+      - name: Create CNAME file for custom domain
         run: echo 'wiki.karimould.dev' > ./build/CNAME
 
       # Popular action to deploy to GitHub Pages:
