@@ -16,7 +16,6 @@ const config = {
   favicon: "img/favicon.ico",
   organizationName: "karimould", // Usually your GitHub org/user name.
   projectName: "knowledge", // Usually your repo name.
-
   presets: [
     [
       "classic",
@@ -66,6 +65,11 @@ const config = {
             label: "Homepage",
           },
           {
+            href: "https://blog.karimould.dev",
+            position: "right",
+            label: "Blog",
+          },
+          {
             href: "https://github.com/karimould/knowledge",
             position: "right",
             className: "header-github-link",
@@ -77,14 +81,18 @@ const config = {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
       },
-      // algolia: {
-      //   // Application ID provided by Algolia
-      //   appId: "VZMWVWCY2I",
-      //   // Public API key
-      //   apiKey: "8f34bfba01b4422d26cce783e7792f75",
-      //   indexName: "nikiv",
-      // },
     }),
+  themes: [
+    // ... Your other themes.
+    [
+      require.resolve("@easyops-cn/docusaurus-search-local"),
+      {
+        hashed: true,
+        docsRouteBasePath: "/",
+        highlightSearchTermsOnTargetPage: true,
+      },
+    ],
+  ],
 };
 
 module.exports = config;

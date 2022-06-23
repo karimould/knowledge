@@ -2,16 +2,19 @@
 title: Raycast Scripts
 description: Some useful Raycast Scripts
 ---
+
 # Raycast Scripts
 
 To create a raycast script you can open Raycast an type:
+
 ```
 create Script command
 ```
+
 Put in the meta informations and choose the language, raycast will create a file for you.
 
-
 ## Wiki Sync Script
+
 This is the script for my Wiki workflow.
 I need this script because I work on multiple mashines.
 
@@ -34,8 +37,8 @@ git pull
 if \[\[ \`git status --porcelain\` \]\]
 then
     now=$(date)
-    git add . 
-    git commit -m "$now" 
+    git add .
+    git commit -m "$now"
     if git push
     then
         echo   "✅ git push succeeded ✅"
