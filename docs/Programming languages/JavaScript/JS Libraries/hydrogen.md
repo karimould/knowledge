@@ -8,5 +8,5 @@
 - Blog 📝
 - Repo 🐙
 
-[🐙 Awesome Hydrogen](https://github.com/Shopify/awesome-hydrogen)
-[🐙 Hydrogen](https://github.com/Shopify/hydrogen)
+- [🐙 Awesome Hydrogen](https://github.com/Shopify/awesome-hydrogen)
+- [🐙 Hydrogen](https://github.com/Shopify/hydrogen)

@@ -5,18 +5,18 @@ description: Some useful Raycast Scripts
 
 # Raycast Scripts
 
-To create a raycast script you can open Raycast an type:
+To create a raycast script you can open Raycast and type:
 
 ```
 create Script command
 ```
 
-Put in the meta informations and choose the language, raycast will create a file for you.
+Put in the meta informations and choose the language, Raycast will create a file for you.
 
 ## Wiki Sync Script
 
 This is the script for my Wiki workflow.
-I need this script because I work on multiple mashines.
+I need this script because I work on multiple machines.
 
 ```bash
 #!/bin/bash
