@@ -7,3 +7,4 @@
 ## Tech Related
 
 - [Syntax](https://syntax.fm/)
+- [The CSS Podcast](https://pod.link/thecsspodcast)
